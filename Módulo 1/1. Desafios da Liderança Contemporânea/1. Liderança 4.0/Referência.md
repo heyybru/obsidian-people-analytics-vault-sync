@@ -1,0 +1,1 @@
+[material](obsidian://open?vault=MBA-People%20Analytics&file=img%2FLideran%C3%A7a%204.0.pdf) 
