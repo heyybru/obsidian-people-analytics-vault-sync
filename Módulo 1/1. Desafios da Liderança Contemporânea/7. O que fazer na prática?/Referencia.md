@@ -1,0 +1,1 @@
+[material](obsidian://open?vault=MBA-People%20Analytics&file=img%2FO%20que%20fazer%20na%20pr%C3%A1tica%3F%20.pdf)

@@ -1,0 +1,1 @@
+[material](obsidian://open?vault=MBA-People%20Analytics&file=img%2FCiclo%20de%20vida%20do%20colaborador%20.pdf)
