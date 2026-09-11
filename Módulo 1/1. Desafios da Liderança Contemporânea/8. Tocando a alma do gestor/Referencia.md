@@ -1,0 +1,1 @@
+[material](obsidian://open?vault=MBA-People%20Analytics&file=img%2FTocando%20a%20alma%20do%20gestor%20.pdf)
