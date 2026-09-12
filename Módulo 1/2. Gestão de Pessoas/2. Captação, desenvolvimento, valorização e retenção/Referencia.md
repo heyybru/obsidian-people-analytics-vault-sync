@@ -1,0 +1,1 @@
+[material](obsidian://open?vault=MBA-People%20Analytics&file=img%2F2.%20Gest%C3%A3o%20de%20Pessoas%2FCapta%C3%A7%C3%A3o%2C%20desenvolvimento%2C%20valoriza%C3%A7%C3%A3o%20e%20reten%C3%A7%C3%A3o%20.pdf)
