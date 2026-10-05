@@ -1,1 +1,23 @@
-material 
+[material](obsidian://open?vault=MBA-People%20Analytics&file=img%2F3.%20ESG%20e%20Sustentabilidade%2FRepresentatividade%20exposta%20x%20mudan%C3%A7as%20concretas%20.pdf) 
+
+**Complementos verificados:**
+
+- [IBGC — Cinco princípios da governança corporativa](https://www.ibgc.org.br/blog/conheca-os-cinco-principios-governanca-corporativa)
+- [IBGC — 6ª edição do Código das Melhores Práticas](https://www.ibgc.org.br/blog/lancamento-sexta-edicao-codigo-melhores-praticas-ibgc)
+- [Valor Econômico — Brasileiros cobram mais transparência em ESG (Ipsos, 2024)](https://valor.globo.com/empresas/esg/noticia/2024/10/15/esg-brasileiros-cobram-mais-transparencia-das-empresas-e-apontam-preco-como-limitador-de-compra-responsavel.ghtml)
+- [Veja — Reputação 360º (Ipsos): brasileiros céticos sobre narrativa x prática (2025)](https://veja.abril.com.br/economia/brasileiro-quer-empresas-e-produtos-sustentaveis-mas-sem-pagar-mais-por-isso/)
+- [Envolverde — 85% das alegações ambientais nos produtos são enganosas](https://envolverde.com.br/noticia/greenwashing-no-brasil-estudo-revela-que-85-das-alegacoes-ambientais-nos-produtos-sao-enganosas)
+- [CNN Brasil — Greenwashing: como identificar a falsa sustentabilidade](https://www.cnnbrasil.com.br/economia/macroeconomia/greenwashing-o-que-e-e-como-identificar-a-pratica-da-falsa-sustentabilidade)
+- [Parlamento Europeu — Lei que proíbe branqueamento ecológico e informação enganosa (2024)](https://www.europarl.europa.eu/news/pt/press-room/20240112IPR16772/parlamento-aprova-lei-que-proibe-branqueamento-ecologico-e-informacao-enganosa)
+- [EUR-Lex — Diretiva (UE) 2024/825](https://eur-lex.europa.eu/eli/dir/2024/825/oj/eng)
+- [CVM — Resolução CVM 193/2023](https://conteudo.cvm.gov.br/legislacao/resolucoes/resol193.html)
+- [ConJur — Greenwashing da CVM: o recuo dos reportes de sustentabilidade (2026)](https://www.conjur.com.br/2026-jun-06/greenwashing-da-cvm-recuo-dos-reportes-obrigatorios-de-sustentabilidade)
+- [Capital Aberto — COP 30, greenwashing e IFRS S1/S2 (EY: 85% dos investidores)](https://capitalaberto.com.br/regulacao/2025/12/apos-cop-30-greenwashing-volta-a-pauta-e-ifrs-s1-e-s2-ganham-papel-fundamental)
+- [InvestNews — Greenwashing prejudicando negócios (reação de gestores)](https://investnews.com.br/colunistas/como-as-praticas-de-greenwashing-estao-prejudicando-negocios)
+- [ResearchGate — Greenwashing, reputação da marca e desconfiança do consumidor](https://www.researchgate.net/publication/328350214_A_Relacao_do_Greenwashing_com_a_Reputacao_da_Marca_e_a_Desconfianca_do_Consumidor)
+- [UFSM — Banco do Brasil reconhece passado ligado à escravidão e pede perdão (2023)](https://www.ufsm.br/projetos/institucional/observatorio-crise/2023/12/05/banco-do-brasil-reconhece-passado-ligado-a-escravidao-pede-perdao-ao-povo-negro-e-assume-compromissos)
+- [Mosaice — Ações afirmativas: Magalu, Carrefour, Assaí, B3, Boticário (2024/2025)](https://mosaice.com/artigos/acoes-afirmativas-nas-empresas-exemplos-e-dados-2024-2025/)
+- [Valor Econômico — Empresas e sociedade civil se mobilizam pela equidade racial (2026)](https://valor.globo.com/brasil/noticia/2026/05/13/empresas-e-sociedade-civil-se-mobilizam-pela-equidade-racial.ghtml)
+- [IERE 2025 — avanços na pauta racial corporativa](https://dino.ig.com.br/2025-11-24/iere-2025-revela-avancos-na-pauta-racial-corporativa.html)
+- [Repórter Brasil — Relator da ONU cobra reparação a vítimas de escravidão (2026)](https://reporterbrasil.org.br/2026/08/relator-onu-cobra-punicao-empresas-reparacao-vitimas-escravidao-brasil)
+- [Estadão — 51% das empresas ajustaram ações de diversidade após pressões anti-ESG (2025)](https://www.estadao.com.br/economia/governanca/empresas-brasil-politicas-diversidade-pesquisa-teamhub)
