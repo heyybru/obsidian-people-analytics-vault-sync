@@ -1,1 +1,1 @@
-material
+[material](obsidian://open?vault=MBA-People%20Analytics&file=img%2FM%C3%B3dulo%201%2F4.%20Cultura%20de%20Dados%2FAssessment%20na%20gest%C3%A3o%20de%20dados%20da%20minha%20organiza%C3%A7%C3%A3o%20.pdf)
